@@ -1,8 +1,6 @@
 # Decision-Making-with-Statistics
 One of the  reasons statistics is important in decision-making is it can help us see the future. Though all forecasting efforts are subject to certain limitations, predictive analytics has proven to be a helpful way for decision-makers to arrive at truly informed assumptions about future events and trends.
 
-Using current and historical statistics distilled from accurate data collection, predictive analytics applies statistical algorithms and machine learning (or artificial intelligence) to make predictions about future trends and anticipated outcomes. Employing this process effectively, however, requires statisticians who understand both how to gather accurate data and interpret the results.
-
 In this project I have used several statistical methods such as hypothesis testing, ANOVA and chi-square to arrive at business conclusions by summerizing total of 7 statistical tests. It also covers simulation of CLT (Central Limit Theory).
 
 ## About data
@@ -28,6 +26,7 @@ It has been observed that in the past 15 years , there has been a huge developme
 5. Levene test to check equivalance of varience
 6. Mann Whitney-u for non-parametric test
 7. ANOVA
+8. Chi-square
 
 ## Conclusion
 -> The half of the population has life expectancy less than 71 years.
