@@ -31,9 +31,15 @@ It has been observed that in the past 15 years , there has been a huge developme
 
 ## Conclusion
 -> The half of the population has life expectancy less than 71 years.
+
 -> Life expectancy for developed countries and developing countries is different.
+
 -> Top 5 developed countries life expectancy is different.
+
 -> Population depends on the year but not on the status of the country.
+
 -> Total expenditure in developed countries is more as compared to developing countries.
+
 -> The proportion of Hepatitis-B immunization in developed countries and developing countries is same.
+
 -> The alcohol level consumption rate is not dependent on country status.
