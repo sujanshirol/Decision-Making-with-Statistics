@@ -1,4 +1,4 @@
-# Decision-Making-with-Statistics
+# Decision Making with Statistics
 One of the  reasons statistics is important in decision-making is it can help us see the future. Though all forecasting efforts are subject to certain limitations, predictive analytics has proven to be a helpful way for decision-makers to arrive at truly informed assumptions about future events and trends.
 
 In this project I have used several statistical methods such as hypothesis testing, ANOVA and chi-square to arrive at business conclusions by summerizing total of 7 statistical tests. It also covers simulation of CLT (Central Limit Theory).
